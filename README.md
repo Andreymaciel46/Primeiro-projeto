@@ -3,4 +3,4 @@
 
  Repositório criado em durante a aula de Git e Github
  
- Essa linha eu adicionei do site
+ Essa linha eu adicionei no site
